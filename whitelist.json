@@ -2,18 +2,11 @@
   "version": "1.0",
   "users": [
     {
-      "account": "Tsukimi97",
-      "password": "tsukimilove97",
-      "isUsed": true,
-      "owner": "月見tsukimi",
-      "isimportpass": true
-    },
-    {
       "account": "Tsukimi44",
       "password": "tsukimilove44",
       "isUsed": true,
       "owner": "TsukiTest",
-      "isimportpass": false
+      "isimportpass": true
     },
     {
       "account": "tkrd98ig",
