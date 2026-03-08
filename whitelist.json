@@ -4,7 +4,7 @@
     {
       "account": "DEVICE-001",
       "password": "MyPassword123",
-      "isUsed": false,
+      "isUsed": true,
       "owner": "Alice"
     },
     {
@@ -15,3 +15,4 @@
     }
   ]
 }
+
