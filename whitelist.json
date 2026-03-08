@@ -2,17 +2,18 @@
   "version": "1.0",
   "users": [
     {
-      "account": "DEVICE-001",
-      "password": "MyPassword123",
-      "isUsed": true,
-      "owner": "Alice"
+      "account": "Tsukimi97",
+      "password": "tsukimilove97",
+      "isUsed": false,
+      "owner": "月見tsukimi",
+      "isimportpass": true
     },
     {
-      "account": "Tsukimi-44",
-      "password": "SecretPassword",
+      "account": "Tsukimi44",
+      "password": "tsukimilove44",
       "isUsed": false,
-      "owner": "Bob"
+      "owner": "TsukiTest",
+      "isimportpass": false
     }
   ]
 }
-
