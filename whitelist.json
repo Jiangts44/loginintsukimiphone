@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "users": [
+    {
+      "account": "DEVICE-001",
+      "password": "MyPassword123",
+      "isUsed": false,
+      "owner": "Alice"
+    },
+    {
+      "account": "Tsukimi-44",
+      "password": "SecretPassword",
+      "isUsed": false,
+      "owner": "Bob"
+    }
+  ]
+}
