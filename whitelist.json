@@ -6,8 +6,8 @@
       "password": "tsukimilove44",
       "isUsed": true,
       "owner": "TsukiTest",
-      "isimportpass": false,
-      "ispromptenable": false
+      "isimportpass": true,
+      "ispromptenable": true
     },
     {
       "account": "tkrd98ig",
@@ -875,3 +875,4 @@
     }
   ]
 }
+
