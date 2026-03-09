@@ -6,7 +6,7 @@
       "password": "tsukimilove44",
       "isUsed": false,
       "owner": "TsukiTest",
-      "isimportpass": false,
+      "isimportpass": true,
       "ispromptenable": false
     },
     {
@@ -507,5 +507,6 @@
     }
   ]
 }
+
 
 
