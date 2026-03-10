@@ -140,7 +140,7 @@
     {
       "account": "tka4l4t3",
       "password": "x20d3znbsnzh",
-      "isUsed": false,
+      "isUsed": true,
       "owner": "𝑻𝒓𝒊𝒔𝒕𝒆°",
       "isimportpass": false,
       "ispromptenable": false
@@ -212,7 +212,7 @@
     {
       "account": "tkbwgi3p",
       "password": "n2yc40ixcm6p",
-      "isUsed": false,
+      "isUsed": true,
       "owner": "兔兔（准备考试版",
       "isimportpass": false,
       "ispromptenable": false
@@ -875,4 +875,5 @@
     }
   ]
 }
+
 
