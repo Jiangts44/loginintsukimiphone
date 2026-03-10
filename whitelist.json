@@ -8,7 +8,7 @@
       "owner": "TsukiTest",
       "isimportpass": false,
       "ispromptenable": true,
-      "enable": false
+      "enable": true
     },
     {
       "account": "tkrd98ig",
@@ -984,6 +984,7 @@
     }
   ]
 }
+
 
 
 
