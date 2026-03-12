@@ -6,9 +6,10 @@
       "password": "tsukimilove44",
       "isUsed": false,
       "owner": "TsukiTest",
-      "isimportpass": false,
+      "isimportpass": true,
       "ispromptenable": true,
-      "enable": true
+      "enable": true,
+      "charlist": { "谢听雾": true, "逾安": false, "Gemini": false }
     },
     {
       "account": "tkrd98ig",
@@ -17,7 +18,8 @@
       "owner": "途温。",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkjelqj4",
@@ -26,7 +28,8 @@
       "owner": "今日日落了吗？",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk2tgt5s",
@@ -35,7 +38,8 @@
       "owner": "酒心挞",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tknqasfq",
@@ -44,7 +48,8 @@
       "owner": "男娘奴",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkwng2no",
@@ -53,7 +58,8 @@
       "owner": "Empire",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkyh8f22",
@@ -62,7 +68,8 @@
       "owner": "王甜甜甜",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkwjw0nv",
@@ -71,7 +78,8 @@
       "owner": "=͟͟͞♡",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tke02v9a",
@@ -80,7 +88,8 @@
       "owner": "芋泥",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkfieh77",
@@ -89,7 +98,8 @@
       "owner": "气势凌人的麻辣香锅",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tki0bof3",
@@ -98,7 +108,8 @@
       "owner": "牙牙大王",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkf7kswo",
@@ -107,7 +118,8 @@
       "owner": "清欢渡＾",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk4ipz0o",
@@ -116,7 +128,8 @@
       "owner": "知意",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk7xmiqx",
@@ -125,7 +138,8 @@
       "owner": "鸡肉卷",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkxt9gdm",
@@ -134,7 +148,8 @@
       "owner": "糊糊的家常菜",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk4ypykw",
@@ -143,7 +158,8 @@
       "owner": "（昵称是空白）",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkscfijq",
@@ -152,7 +168,8 @@
       "owner": "恋雨",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tka4l4t3",
@@ -161,7 +178,8 @@
       "owner": "𝑻𝒓𝒊𝒔𝒕𝒆°",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk5vto1l",
@@ -170,7 +188,8 @@
       "owner": "捏你face.",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkjhkq38",
@@ -179,7 +198,8 @@
       "owner": "N_",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkgbere2",
@@ -188,7 +208,8 @@
       "owner": "只只",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk8u6epn",
@@ -197,7 +218,8 @@
       "owner": "7",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkihihcf",
@@ -206,7 +228,8 @@
       "owner": "永晛女友💚",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk6w807v",
@@ -215,7 +238,8 @@
       "owner": "꒰ঌ໒꒱",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkbeujyc",
@@ -224,7 +248,8 @@
       "owner": "薄荷猫",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkjcpb21",
@@ -233,7 +258,8 @@
       "owner": "mon",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkbwgi3p",
@@ -242,7 +268,8 @@
       "owner": "兔兔（准备考试版",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkraq962",
@@ -251,7 +278,8 @@
       "owner": "白水鉴心",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkg6a8xf",
@@ -260,7 +288,8 @@
       "owner": "CLonly",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk371xnj",
@@ -269,7 +298,8 @@
       "owner": "咕咕",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk9cp3pg",
@@ -278,7 +308,8 @@
       "owner": "小姩",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkc14nbp",
@@ -287,7 +318,8 @@
       "owner": "安以诺",
       "isimportpass": true,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk6vqheh",
@@ -296,7 +328,8 @@
       "owner": "喵喵喵",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkypc7hv",
@@ -305,7 +338,8 @@
       "owner": "∩_∩",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk5mm6ga",
@@ -314,7 +348,8 @@
       "owner": "Heinrich.",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkms9ln8",
@@ -323,7 +358,8 @@
       "owner": "小猫",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk2okudk",
@@ -332,7 +368,8 @@
       "owner": "莓猫冰",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk88y7ye",
@@ -341,7 +378,8 @@
       "owner": "未匿诗",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkw8eb3h",
@@ -350,7 +388,8 @@
       "owner": "我住的城市下雨了",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkv4ap8v",
@@ -359,7 +398,8 @@
       "owner": "蓝风铃",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tksfubeb",
@@ -368,7 +408,8 @@
       "owner": "Sad",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkinoukk",
@@ -377,7 +418,8 @@
       "owner": "Teairis",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tku287j3",
@@ -386,7 +428,8 @@
       "owner": "禾夕缶",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk3nwtwf",
@@ -395,7 +438,8 @@
       "owner": "鹿晗夫人",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkw9wbih",
@@ -404,7 +448,8 @@
       "owner": "咩卡巴卡",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkps1lwc",
@@ -413,7 +458,8 @@
       "owner": "风止᳐薄荷糖᳐ ੭ﾞ",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk7jd3bd",
@@ -422,7 +468,8 @@
       "owner": "痛名为爱",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkuc5oey",
@@ -431,7 +478,8 @@
       "owner": "橙子",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkyl3siy",
@@ -440,7 +488,8 @@
       "owner": "岁",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tknv89y2",
@@ -449,7 +498,8 @@
       "owner": "沈无明",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkzxwwd",
@@ -458,7 +508,8 @@
       "owner": "yoil",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkhbzl4v",
@@ -467,7 +518,8 @@
       "owner": "彡",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk97r9zd",
@@ -476,7 +528,8 @@
       "owner": "Charlotte",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk76cybq",
@@ -485,7 +538,8 @@
       "owner": "玉绵",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkhd376b",
@@ -494,7 +548,8 @@
       "owner": "C'est la vie",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkynapof",
@@ -503,7 +558,8 @@
       "owner": "过去种种都是春日旧雪",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tktqdb2h",
@@ -512,7 +568,8 @@
       "owner": "一颗软梨",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk1u3299",
@@ -521,7 +578,8 @@
       "owner": "꒦ິ^꒦ິ",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkivmm2o",
@@ -530,7 +588,8 @@
       "owner": "Miimu",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk4l2vcz",
@@ -539,7 +598,8 @@
       "owner": "冥主",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkboutqg",
@@ -548,7 +608,8 @@
       "owner": "小岛曲奇",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk41pwfh",
@@ -557,7 +618,8 @@
       "owner": "雨",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkwlobz7",
@@ -566,7 +628,8 @@
       "owner": "心怜泪",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkiapu13",
@@ -575,7 +638,8 @@
       "owner": "岑北海",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkb9i6u8",
@@ -584,7 +648,8 @@
       "owner": "花眠夜",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkofhw04",
@@ -593,7 +658,8 @@
       "owner": "Fishlly",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tked1571",
@@ -602,7 +668,8 @@
       "owner": "遇雨⁧哎",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk1tp324",
@@ -611,7 +678,8 @@
       "owner": "Q",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkp5kikf",
@@ -620,7 +688,8 @@
       "owner": "梦梦",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk94jcgj",
@@ -629,7 +698,8 @@
       "owner": "aowu_",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkdsr35j",
@@ -638,7 +708,8 @@
       "owner": "一只小兔",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkk1j8ve",
@@ -647,7 +718,8 @@
       "owner": "困了.",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkw5mxxt",
@@ -656,7 +728,8 @@
       "owner": "。",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkhcqa2n",
@@ -665,7 +738,8 @@
       "owner": "天上火_🔥",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk5uyx2f",
@@ -674,7 +748,8 @@
       "owner": "莲",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkxvym1a",
@@ -683,7 +758,8 @@
       "owner": "池鲤",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk6ol1bz",
@@ -692,7 +768,8 @@
       "owner": "鼹鼠大队长",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk6udv09",
@@ -701,7 +778,8 @@
       "owner": "一番星",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkqf9j52",
@@ -710,7 +788,8 @@
       "owner": "陆华年",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkqbin3u",
@@ -719,7 +798,8 @@
       "owner": "sasu",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk6u5q8y",
@@ -728,7 +808,8 @@
       "owner": "Cloud",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkq3ajn9",
@@ -737,7 +818,8 @@
       "owner": "妈咪俺是你媳妇",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk9itgc3",
@@ -746,7 +828,8 @@
       "owner": "Qm",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkuf4dpl",
@@ -755,7 +838,8 @@
       "owner": "Rina",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk79fa4m",
@@ -764,7 +848,8 @@
       "owner": "鱼子酱",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk1id507",
@@ -773,7 +858,8 @@
       "owner": "小小一只",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkalsh58",
@@ -782,7 +868,8 @@
       "owner": "如果巴黎不下雨",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkte7ie9",
@@ -791,7 +878,8 @@
       "owner": "（空白）",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk50xlpi",
@@ -800,7 +888,8 @@
       "owner": "only1",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkdh5a7t",
@@ -809,7 +898,8 @@
       "owner": "茶卡",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkexthlx",
@@ -818,7 +908,8 @@
       "owner": "想念（睡觉💤",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkkgkqsb",
@@ -827,7 +918,8 @@
       "owner": "ololol",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkqh6lj3",
@@ -836,7 +928,8 @@
       "owner": "草莓°软糖",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk3l9zv8",
@@ -845,7 +938,8 @@
       "owner": "懒惰的企鹅",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk2ggynv",
@@ -854,7 +948,8 @@
       "owner": "Mi Manchi",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tku8o8xw",
@@ -863,7 +958,8 @@
       "owner": "齊",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkltj11w",
@@ -872,7 +968,8 @@
       "owner": "Alen",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk4z4srp",
@@ -881,7 +978,8 @@
       "owner": "Miette",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkufujaz",
@@ -890,7 +988,8 @@
       "owner": "柚",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkshtf8",
@@ -899,7 +998,8 @@
       "owner": "˃ ˄ ˂̥̥",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkdpy2b6",
@@ -908,7 +1008,8 @@
       "owner": "六月",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkl3t9uw",
@@ -917,7 +1018,8 @@
       "owner": "在溯心上.",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkbem6lk",
@@ -926,7 +1028,8 @@
       "owner": "呱呱海獭",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk8ulkxm",
@@ -935,7 +1038,8 @@
       "owner": "天上下土豆",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkvwgt8r",
@@ -944,7 +1048,8 @@
       "owner": "Yasmine",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tk26d7vo",
@@ -953,7 +1058,8 @@
       "owner": "星.",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkuw32x",
@@ -962,7 +1068,8 @@
       "owner": "Treasure",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tky08ypz",
@@ -971,7 +1078,8 @@
       "owner": "悲伤🐸",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     },
     {
       "account": "tkjcdppc",
@@ -980,15 +1088,8 @@
       "owner": "鱼𓆜",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true
+      "enable": true,
+      "charlist": {}
     }
   ]
 }
-
-
-
-
-
-
-
-
