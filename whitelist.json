@@ -354,7 +354,7 @@
     {
       "account": "tkms9ln8",
       "password": "hgt15afnzh49",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "小猫",
       "isimportpass": false,
       "ispromptenable": false,
