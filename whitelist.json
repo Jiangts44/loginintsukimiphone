@@ -559,7 +559,7 @@
       "isimportpass": true,
       "ispromptenable": false,
       "enable": true,
-      "charlist": { "陆野": true }
+      "charlist": { "陆野": false }
     },
     {
       "account": "tktqdb2h",
