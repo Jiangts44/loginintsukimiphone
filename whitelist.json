@@ -358,7 +358,7 @@
       "owner": "小猫",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": false,
+      "enable": true,
       "charlist": {}
     },
     {
@@ -2497,6 +2497,36 @@
       "isUsed": true,
       "enable": true,
       "owner": "透明心臟",
+      "isimportpass": false,
+      "ispromptenable": false,
+      "charlist": {}
+    },
+    {
+      "account": "tk4exzjj",
+      "password": "ghn6i3fnt0m",
+      "isUsed": false,
+      "enable": true,
+      "owner": "R²",
+      "isimportpass": false,
+      "ispromptenable": false,
+      "charlist": {}
+    },
+    {
+      "account": "tk34grh4",
+      "password": "qu73y93ydm6u",
+      "isUsed": false,
+      "enable": true,
+      "owner": "鹿川赴野",
+      "isimportpass": false,
+      "ispromptenable": false,
+      "charlist": {}
+    },
+    {
+      "account": "tkdqv9wd",
+      "password": "l4n8l4bouymo",
+      "isUsed": false,
+      "enable": true,
+      "owner": "江眠",
       "isimportpass": false,
       "ispromptenable": false,
       "charlist": {}
