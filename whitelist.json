@@ -1884,7 +1884,7 @@
     {
       "account": "tkd2qrgz",
       "password": "eg1yb7u5c8zd",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "703（来吃毛子毛子毛子领鸡蛋）",
       "isimportpass": false,
@@ -2294,7 +2294,7 @@
     {
       "account": "tkheln3s",
       "password": "7yek20shw48c",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "暮色渐晚",
       "isimportpass": false,
