@@ -1624,7 +1624,7 @@
     {
       "account": "tk99qeef",
       "password": "x2h5mh5fv6dy",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "呆呆猫",
       "isimportpass": false,
