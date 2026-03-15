@@ -144,11 +144,11 @@
     {
       "account": "tkxt9gdm",
       "password": "4ttk892i40va",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "糊糊的家常菜",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": false,
+      "enable": true,
       "charlist": {}
     },
     {
