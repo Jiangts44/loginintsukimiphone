@@ -4,7 +4,7 @@
     {
       "account": "Tsukimi44",
       "password": "tsukimilove44",
-      "isUsed": false,
+      "isUsed": true,
       "owner": "TsukiTest",
       "isimportpass": true,
       "ispromptenable": true,
@@ -464,11 +464,11 @@
     {
       "account": "tk7jd3bd",
       "password": "qhfhp345ayzy",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "痛名为爱",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": false,
+      "enable": true,
       "charlist": {}
     },
     {
@@ -1294,7 +1294,7 @@
     {
       "account": "tk9kx054",
       "password": "rsz63y34sh7u",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "忆",
       "isimportpass": false,
