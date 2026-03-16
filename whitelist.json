@@ -994,11 +994,11 @@
     {
       "account": "tkdpy2b6",
       "password": "8poube71l7zn",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "六月",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": false,
+      "enable": true,
       "charlist": {}
     },
     {
