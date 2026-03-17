@@ -524,7 +524,7 @@
     {
       "account": "tk97r9zd",
       "password": "frmp7gfpii32",
-      "isUsed": false,
+      "isUsed": true,
       "owner": "Charlotte",
       "isimportpass": false,
       "ispromptenable": false,
@@ -938,7 +938,7 @@
       "owner": "懒惰的企鹅",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": true,
+      "enable": false,
       "charlist": {}
     },
     {
@@ -1185,7 +1185,7 @@
       "account": "tk1pldu4",
       "password": "v48296f15088",
       "isUsed": true,
-      "enable": true,
+      "enable": false,
       "owner": "よくばりさん",
       "isimportpass": false,
       "ispromptenable": false,
@@ -2115,7 +2115,7 @@
       "account": "tk9f8hve",
       "password": "rrczhcct6sz",
       "isUsed": true,
-      "enable": true,
+      "enable": false,
       "owner": "Mintrain",
       "isimportpass": false,
       "ispromptenable": false,
