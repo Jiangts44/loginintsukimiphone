@@ -524,7 +524,7 @@
     {
       "account": "tk97r9zd",
       "password": "frmp7gfpii32",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "Charlotte",
       "isimportpass": false,
       "ispromptenable": false,
@@ -1764,7 +1764,7 @@
     {
       "account": "tkyazzww",
       "password": "bfgzz911n8ao",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "诺贝尔一直讲",
       "isimportpass": false,
