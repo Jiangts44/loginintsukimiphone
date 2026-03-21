@@ -484,11 +484,11 @@
     {
       "account": "tkyl3siy",
       "password": "5i0m8fn7let4",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "岁",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": false,
+      "enable": true,
       "charlist": {}
     },
     {
@@ -924,11 +924,11 @@
     {
       "account": "tkqh6lj3",
       "password": "93rpvryjyiq",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "草莓°软糖",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": false,
+      "enable": true,
       "charlist": {}
     },
     {
@@ -2594,7 +2594,7 @@
     {
       "account": "tkfmm7u1-v4",
       "password": "haofvgmu78s0",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "東赤",
       "isimportpass": false,
