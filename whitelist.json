@@ -8,7 +8,7 @@
       "owner": "TsukiTest",
       "isimportpass": true,
       "ispromptenable": true,
-      "enable": true,
+      "enable": false,
       "charlist": { "谢听雾": true, "逾安": false, "Gemini": false }
     },
     {
