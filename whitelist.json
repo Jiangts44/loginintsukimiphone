@@ -924,7 +924,7 @@
     {
       "account": "tkqh6lj3",
       "password": "93rpvryjyiq",
-      "isUsed": false,
+      "isUsed": true,
       "owner": "草莓°软糖",
       "isimportpass": false,
       "ispromptenable": false,
@@ -2594,7 +2594,7 @@
     {
       "account": "tkfmm7u1-v4",
       "password": "haofvgmu78s0",
-      "isUsed": false,
+      "isUsed": true,
       "enable": true,
       "owner": "東赤",
       "isimportpass": false,
