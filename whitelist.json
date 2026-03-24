@@ -264,7 +264,7 @@
     {
       "account": "tkbwgi3p",
       "password": "n2yc40ixcm6p",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "兔兔（准备考试版",
       "isimportpass": false,
       "ispromptenable": false,
@@ -1024,8 +1024,8 @@
     {
       "account": "tk8ulkxm",
       "password": "983qxa9iqiw3",
-      "isUsed": true,
-      "owner": "天上下土豆",
+      "isUsed": false,
+      "owner": "别烤土豆了",
       "isimportpass": false,
       "ispromptenable": false,
       "enable": true,
@@ -1074,7 +1074,7 @@
     {
       "account": "tkviizd1",
       "password": "miggwflk25gk",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "Mi Manchi",
       "isimportpass": false,
@@ -3544,7 +3544,7 @@
     {
       "account": "tki086yj-v4",
       "password": "ru79h1mu78s0",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "nezu",
       "isimportpass": false,
