@@ -289,7 +289,7 @@
       "isimportpass": false,
       "ispromptenable": false,
       "enable": true,
-      "charlist": { "苏予": true }
+      "charlist": { "苏予": false }
     },
     {
       "account": "tk371xnj",
