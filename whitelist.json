@@ -286,7 +286,7 @@
       "password": "e192qcsvcjaq",
       "isUsed": false,
       "owner": "CLonly",
-      "isimportpass": false,
+      "isimportpass": true,
       "ispromptenable": false,
       "enable": true,
       "charlist": { "苏予": false }
