@@ -284,12 +284,12 @@
     {
       "account": "tkg6a8xf",
       "password": "e192qcsvcjaq",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "CLonly",
       "isimportpass": false,
       "ispromptenable": false,
       "enable": true,
-      "charlist": { "苏予": false }
+      "charlist": { "苏予": true }
     },
     {
       "account": "tk371xnj",
