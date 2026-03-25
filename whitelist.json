@@ -12,6 +12,16 @@
       "charlist": { "谢听雾": true, "逾安": false, "Gemini": false }
     },
     {
+      "account": "TsukiTest",
+      "password": "tsukimilovetest",
+      "isUsed": false,
+      "owner": "TsukiTest",
+      "isimportpass": false,
+      "ispromptenable": false,
+      "enable": true,
+      "charlist": {}
+    },
+    {
       "account": "tkrd98ig",
       "password": "bjqgpo1qp6lm",
       "isUsed": true,
