@@ -54,7 +54,7 @@
     {
       "account": "tkwng2no",
       "password": "lzdsjkt2fict",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "Empire",
       "isimportpass": false,
       "ispromptenable": false,
@@ -2194,7 +2194,7 @@
     {
       "account": "tky7m961",
       "password": "9fiynyxibvmv",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "晚安",
       "isimportpass": false,
