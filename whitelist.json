@@ -4480,6 +4480,16 @@
       "isimportpass": false,
       "ispromptenable": false,
       "charlist": {}
+    },
+    {
+      "account": "tkyh2fwd-v5",
+      "password": "ijnlfhmu78s0",
+      "isUsed": false,
+      "enable": true,
+      "owner": "未来信",
+      "isimportpass": false,
+      "ispromptenable": false,
+      "charlist": {}
     }
   ]
 }
