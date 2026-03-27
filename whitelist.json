@@ -12,6 +12,16 @@
       "charlist": { "谢听雾": true, "逾安": false, "Gemini": false }
     },
     {
+      "account": "tkgxwk4h-v5",
+      "password": "w9kj0hmu78s0",
+      "isUsed": false,
+      "enable": true,
+      "owner": "海区鸟",
+      "isimportpass": true,
+      "ispromptenable": false,
+      "charlist": {}
+    },
+    {
       "account": "TsukiTest",
       "password": "tsukimilovetest",
       "isUsed": false,
