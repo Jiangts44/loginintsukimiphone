@@ -94,7 +94,7 @@
     {
       "account": "tke02v9a",
       "password": "f04xl7785mit",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "芋泥",
       "isimportpass": false,
       "ispromptenable": false,
