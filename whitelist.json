@@ -164,7 +164,7 @@
     {
       "account": "tk4ypykw",
       "password": "c9dscnwqcipl",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "（昵称是空白）",
       "isimportpass": false,
       "ispromptenable": false,
@@ -2624,7 +2624,7 @@
     {
       "account": "tkblrni4-v4",
       "password": "ndpilgmu78s0",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "YAYAYO",
       "isimportpass": false,
@@ -2884,7 +2884,7 @@
     {
       "account": "tk6o920l-v4",
       "password": "e8rdqsmu78s0",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "Moon",
       "isimportpass": false,
@@ -3054,7 +3054,7 @@
     {
       "account": "tkqu8qrw-v4",
       "password": "oym8emmu78s0",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "去码头整点薯条",
       "isimportpass": false,
@@ -3124,7 +3124,7 @@
     {
       "account": "tkmu37ge-v4",
       "password": "rvz753mu78s0",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "卋罖",
       "isimportpass": false,
