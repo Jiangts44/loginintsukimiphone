@@ -14,7 +14,7 @@
     {
       "account": "tkgxwk4h-v5",
       "password": "w9kj0hmu78s0",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "海区鸟",
       "isimportpass": true,
@@ -24,7 +24,7 @@
     {
       "account": "TsukiTest",
       "password": "tsukimilovetest",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "TsukiTest",
       "isimportpass": false,
       "ispromptenable": false,
@@ -3774,7 +3774,7 @@
     {
       "account": "tku9z7n3-v5",
       "password": "dxdy8xmu78s0",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "Y.",
       "isimportpass": false,
