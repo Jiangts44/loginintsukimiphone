@@ -824,7 +824,7 @@
     {
       "account": "tk6u5q8y",
       "password": "lq1xhu8rhymh",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "Cloud",
       "isimportpass": false,
       "ispromptenable": false,
@@ -1814,7 +1814,7 @@
     {
       "account": "tkb7lgmw",
       "password": "wubx0g9jak04",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "。",
       "isimportpass": false,
