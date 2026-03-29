@@ -12,6 +12,16 @@
       "charlist": { "谢听雾": true, "逾安": false, "Gemini": false }
     },
     {
+      "account": "tkajx042-v0",
+      "password": "rephjemu78s0",
+      "isUsed": false,
+      "enable": true,
+      "owner": "月见",
+      "isimportpass": false,
+      "ispromptenable": false,
+      "charlist": {}
+    },
+    {
       "account": "tkgxwk4h-v5",
       "password": "w9kj0hmu78s0",
       "isUsed": false,
@@ -2234,7 +2244,7 @@
     {
       "account": "tkh2vuag",
       "password": "i2vbvx7d88c9",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "寻风逐风",
       "isimportpass": false,
