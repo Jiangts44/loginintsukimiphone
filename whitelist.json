@@ -544,7 +544,7 @@
     {
       "account": "tkhbzl4v",
       "password": "cb5ef9570wm",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "彡",
       "isimportpass": false,
       "ispromptenable": false,
@@ -3464,7 +3464,7 @@
     {
       "account": "tkkvr2hq-v4",
       "password": "c7op4smu78s0",
-      "isUsed": true,
+      "isUsed": false,
       "enable": true,
       "owner": "未随",
       "isimportpass": false,
