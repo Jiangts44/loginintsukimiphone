@@ -3534,8 +3534,8 @@
     {
       "account": "tk3p3tm4-v4",
       "password": "926ewhmu78s0",
-      "isUsed": true,
-      "enable": false,
+      "isUsed": false,
+      "enable": true,
       "owner": "软糖",
       "isimportpass": false,
       "ispromptenable": false,
