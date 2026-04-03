@@ -904,11 +904,11 @@
     {
       "account": "tkte7ie9",
       "password": "dcy5h1xy4g11",
-      "isUsed": true,
+      "isUsed": false,
       "owner": "（空白）",
       "isimportpass": false,
       "ispromptenable": false,
-      "enable": false,
+      "enable": true,
       "charlist": {}
     },
     {
