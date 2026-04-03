@@ -8,7 +8,7 @@
       "owner": "TsukiTest",
       "isimportpass": true,
       "ispromptenable": true,
-      "enable": false,
+      "enable": true,
       "charlist": { "谢听雾": true, "逾安": false, "Gemini": false }
     },
     {
@@ -4986,7 +4986,7 @@
       "password": "qgvzhdmu78s0",
       "isUsed": false,
       "enable": true,
-      "owner": "kiri_no-3691294950",
+      "owner": "27",
       "isimportpass": false,
       "ispromptenable": false,
       "charlist": {}
