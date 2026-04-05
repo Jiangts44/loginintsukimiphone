@@ -2524,8 +2524,8 @@
     {
       "account": "tki62veq",
       "password": "handnr91di2h",
-      "isUsed": true,
-      "enable": false,
+      "isUsed": false,
+      "enable": true,
       "owner": "透明心臟",
       "isimportpass": false,
       "ispromptenable": false,
