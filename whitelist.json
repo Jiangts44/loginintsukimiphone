@@ -1114,8 +1114,8 @@
     {
       "account": "tkw73kjq",
       "password": "bs440iooy4al",
-      "isUsed": true,
-      "enable": false,
+      "isUsed": false,
+      "enable": true,
       "owner": "蓝风铃",
       "isimportpass": false,
       "ispromptenable": false,
