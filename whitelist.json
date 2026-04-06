@@ -3074,8 +3074,8 @@
     {
       "account": "tkqu8qrw-v4",
       "password": "oym8emmu78s0",
-      "isUsed": true,
-      "enable": false,
+      "isUsed": false,
+      "enable": true,
       "owner": "去码头整点薯条",
       "isimportpass": false,
       "ispromptenable": false,
