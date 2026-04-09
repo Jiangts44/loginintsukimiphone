@@ -4,7 +4,7 @@
     {
       "account": "Tsukimi44",
       "password": "tsukimilove44",
-      "isUsed": false,
+      "isUsed": true,
       "owner": "TsukiTest",
       "isimportpass": true,
       "ispromptenable": true,
@@ -2174,8 +2174,8 @@
     {
       "account": "tk4nfdhl",
       "password": "o0pcggv0q9gs",
-      "isUsed": true,
-      "enable": false,
+      "isUsed": false,
+      "enable": true,
       "owner": "cakee",
       "isimportpass": false,
       "ispromptenable": false,
